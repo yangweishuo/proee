@@ -1,0 +1,12 @@
+body {
+  font-size: 10px;
+  line-height: 1.42857143;
+  color: #333;
+  background-color: #fff;
+}
+.panel-body {
+  padding: 20px;
+}
+li {
+  font-size: 10px;
+}
